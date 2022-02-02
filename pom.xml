@@ -10,7 +10,7 @@
 
     <properties>
         <spring.version>2.1.8.RELEASE</spring.version>
-        <postgresql.version>42.2.6</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
         <lombok.version>1.18.10</lombok.version>
         <spring.data.elasticsearch.version>3.1.10.RELEASE</spring.data.elasticsearch.version>
     </properties>
